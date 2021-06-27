@@ -41,3 +41,4 @@ def init_board():
 
 rows = init_board()
 print_board(rows)
+
